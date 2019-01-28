@@ -47,16 +47,28 @@
   top: 50px;
 }
 
+#about{
+    margin-top: 1px;
+    height: 70px;
+
+}
+
+.aboutparagraph{
+    color: white;
+    text-align: center;
+}
+
 .parallax1{
     /* The image used */
   background-image: url("./pictures/MAO.jpg");
   /* Set a specific height */
-  height: 100px; 
+  height: 500px; 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
-  background-position-y: -190px;
+  /* background-position-y: -190px; */
   background-repeat: no-repeat;
   background-size: cover;
+  
 }
 .parallax2{
     /* The image used */
