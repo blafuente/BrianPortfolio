@@ -53,10 +53,7 @@
 
 }
 
-.aboutparagraph{
-    color: white;
-    text-align: center;
-}
+
 
 .parallax1{
     /* The image used */
@@ -68,8 +65,14 @@
   /* background-position-y: -190px; */
   background-repeat: no-repeat;
   background-size: cover;
-  
 }
+
+.aboutparagraph{
+    color: white;
+    text-align: center;
+    padding-top: 200px;
+}
+
 .parallax2{
     /* The image used */
   background-image: url("./pictures/code.jpg");
@@ -111,9 +114,7 @@
 }
 
 
-p{
-    color: blue;
-}
+
 
 .top{
     color: white;
