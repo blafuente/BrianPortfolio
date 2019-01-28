@@ -79,6 +79,7 @@
   background-position-y: 0px;
   background-repeat: no-repeat;
   background-size: cover;
+  text-align: center;
 }
 .parallax4{
     /* The image used */
@@ -97,9 +98,7 @@
     margin-top: 50px;
 }
 
-h4 {
-    color: lightskyblue;
-}
+
 p{
     color: blue;
 }
@@ -128,4 +127,8 @@ p{
     display: flex;
     height: max-content;
     justify-content: center;
+}
+#one{
+    font-size: 40px;
+    text-align: center;
 }
