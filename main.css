@@ -32,7 +32,8 @@
 
 .parallax{
     /* The image used */
-  background-image: url("./pictures/atlanta.jpg");
+  /* background-image: url("./pictures/atlanta.jpg"); */
+  background-color: blue;
 
   /* Set a specific height */
   height: 100%; 
@@ -57,7 +58,9 @@
 
 .parallax1{
     /* The image used */
-  background-image: url("./pictures/MAO.jpg");
+  /* background-image: url("./pictures/MAO.jpg"); */
+  background-color: blue;
+
   /* Set a specific height */
   height: 500px; 
   /* Create the parallax scrolling effect */
@@ -75,7 +78,9 @@
 
 .parallax2{
     /* The image used */
-  background-image: url("./pictures/code.jpg");
+  /* background-image: url("./pictures/code.jpg"); */
+  background-color: blue;
+
   /* Set a specific height */
   height: 700px; 
   /* Create the parallax scrolling effect */
@@ -86,7 +91,9 @@
 }
 .parallax3{
     /* The image used */
-  background-image: url("./pictures/maogroup.jpg");
+  /* background-image: url("./pictures/maogroup.jpg"); */
+  background-color: blue;
+
   /* Set a specific height */
   height: 700px; 
   /* Create the parallax scrolling effect */
@@ -98,7 +105,9 @@
 }
 .parallax4{
     /* The image used */
-  background-image: url("./pictures/social-media.jpg");
+  /* background-image: url("./pictures/social-media.jpg"); */
+  background-color: blue;
+
   /* Set a specific height */
   height: 700px; 
   /* Create the parallax scrolling effect */
