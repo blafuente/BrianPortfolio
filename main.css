@@ -36,13 +36,24 @@
     height: 200px;
     width: 200px;
 }
+
+a.butt{
+    margin: 10px;
+}
+
+
+
 @media screen and (max-width: 600px) {
-    .navbar{float: none;}
-  
+.navbar{
+    float: none;}
 }
-img{
-    width: 400px;
+
+form{
+    height: auto;
+    width: auto;
 }
+
+
 
 body{
     background-color: #607d8b;
