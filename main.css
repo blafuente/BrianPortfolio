@@ -3,7 +3,9 @@
     top: 0;
     left: 0;
     width: 100%;
+    z-index: 4;
 }
+
 .navbar ul{
     list-style-type: none;
     margin: 0;
@@ -43,5 +45,11 @@ img{
 }
 
 body{
-    background-color: lightslategray;
+    background-color: #607d8b;
+    z-index: 0;
+}
+
+#textarea{
+    width: 500px;
+    height: 200px;
 }
