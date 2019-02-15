@@ -46,6 +46,20 @@ body{
     z-index: 0;
 }
 
+.fa-7x{
+    color: rgb(212, 212, 212);
+}
+
+#textarea{
+    width: 500px;
+    height: 200px;
+}
+
+.fa-3x{
+    color: rgb(212, 212, 212);
+}
+
+
 @media only screen and (max-width: 600px) {
 .navbar{
     float: none;
