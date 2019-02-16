@@ -74,7 +74,10 @@ body{
     z-index: 4;
 }
 
-
+.aboutPara{
+    color: rgb(212, 212, 212);
+    font-size: 10px;
+}
 
 form{
     height: auto;
