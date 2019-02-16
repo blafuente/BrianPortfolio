@@ -26,6 +26,9 @@
 .navbar li a:hover{
     background-color: blue;
 }
+h2{
+    text-decoration: underline;
+}
 #about{
     margin-top: 60px;
 }
@@ -35,6 +38,10 @@
     border-radius: 50%;
     height: 200px;
     width: 200px;
+}
+.aboutPara{
+    color: rgb(212, 212, 212);
+    font-size: 20px;
 }
 
 a.butt{
