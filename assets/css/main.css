@@ -115,6 +115,10 @@ input, select, textarea {
 		}
 		.phoneinfo{
 			border: none;
+			padding: 0px;
+		}
+		.emailinfo{
+			padding: 0px;
 		}
 
 	}
