@@ -111,6 +111,7 @@ input, select, textarea {
 			display: flex;
 			flex-direction: column;
 			justify-content: center;
+			align-items: flex-start
 		}
 		.phoneinfo{
 			border: none;
